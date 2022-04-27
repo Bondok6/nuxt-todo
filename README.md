@@ -1,16 +1,15 @@
 # Todo
 
-In this project, I created a movie app that allows users to search for any movie they want and view information about it thanks to [the movie db](In this project, I created a movie app that allows users to search for any movie they want and view information about it using).
+In this project, I built a simple To-Do App for managing the daily tasks and keeping track of tasks during the day. 
 
 ## Built With
 
 - Nuxt.js
-- API
 - Sass
 
 ## Live Demo 🌐
 
-### [Movies App Link]()
+### [ToDo-App Link](https://bondok6.github.io/nuxt-todo/)
 
 ## Getting Started
 
@@ -45,3 +44,7 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
